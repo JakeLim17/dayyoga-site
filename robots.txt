@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakelim17.github.io/dayyoga-site/sitemap.xml
